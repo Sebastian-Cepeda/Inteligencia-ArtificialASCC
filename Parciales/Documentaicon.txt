@@ -1,0 +1,15 @@
+Me toco la pregunta 7 puzzle de 5x5, use:
+-Como algoritmo de busqueda astar
+Proque es la mas recomendada para la resolucion de los puzzles
+de nxn, cmo tal considero que es muy util depedeido de la heuristica
+Para la cual debe de acortar mas la v=cantidad de movidas por turno
+
+-Como heuristica pensaba en usar distancia manhatan que busque la
+distancia a la que se encuentran de su posicion alcutal solo con los 
+datos que el esapcio vacio pueda cambiar de posicion.
+
+ 
+
+-------Link del github
+
+https://github.com/Sebastian-Cepeda/Inteligencia-ArtificialASCC
