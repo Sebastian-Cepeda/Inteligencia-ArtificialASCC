@@ -8,6 +8,11 @@ Para la cual debe de acortar mas la v=cantidad de movidas por turno
 distancia a la que se encuentran de su posicion alcutal solo con los 
 datos que el esapcio vacio pueda cambiar de posicion.
 
+-Y medir de los esapcios vacios cual conjunto entre ambos e y s
+Para moverlos de manera que tenga un coste menor de distancia de los numros
+(1 - 5), por cual con la distacian saber que estado es el mejor dependiendo del
+conjunto de movidas
+
  
 
 -------Link del github
